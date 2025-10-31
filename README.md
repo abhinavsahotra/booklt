@@ -156,3 +156,9 @@ npm run dev
 - Build admin dashboard UI for promo management
 
 
+## Deployments
+
+The project is deployed and accessible through the following links:
+
+- **Frontend**: [https://bookltfrontend-owa15xyem-abhinavsahotra-projects.vercel.app](https://bookltfrontend-owa15xyem-abhinavsahotra-projects.vercel.app)
+- **Backend**: [https://bookltbackend-4jze2loqh-abhinavsahotra-projects.vercel.app](https://bookltbackend-4jze2loqh-abhinavsahotra-projects.vercel.app)
